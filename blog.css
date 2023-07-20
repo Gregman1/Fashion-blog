@@ -1,0 +1,562 @@
+body {
+    background: gray;
+    font-family: oswald;
+}
+
+.H01 {
+    left: 550px;
+    position: absolute;
+    background-color: black;
+    color: white;
+    top: 60px;
+}
+
+header {
+    padding: 150px;
+    background-color: white;
+}
+
+.BLOG {
+    top: 150px;
+    position: absolute;
+    font-size: 40px;
+    left: 400px;
+}
+
+.IMG1 {
+    margin-right: 24px;
+    width: 1490px;
+    margin-top: -1586px;
+    height: 1780px;
+
+}
+
+.blogg1 {
+    background: rgba(0, 0, 0, 0.5);
+    width: 98.6vw;
+    height: 239vh;
+    top: 80px;
+    position: relative;
+    margin-bottom: -140px;
+    right: 15px;
+}
+
+.Blog2 {
+    background-color: white;
+    position: relative;
+    padding: 400px;
+    width: 30px;
+    height: 210px;
+    right: 100px;
+    left: 50px;
+    top: 60px;
+}
+
+.center {
+    padding: 200px;
+    position: absolute;
+    left: 20px;
+    top: 15px;
+    width: 150px;
+    background: white;
+}
+
+.title1 {
+    position: absolute;
+    top: -10px;
+    left: 110px;
+}
+
+.title2 {
+    margin-top: -160px;
+    padding: 20px;
+    position: absolute;
+    font-size: 20px;
+    color: red;
+    background-color: white;
+}
+
+.Limit1 {
+    margin-left: -310px;
+    margin-top: -300px;
+    position: absolute;
+}
+
+.VT1 {
+    position: absolute;
+    margin-top: 210px;
+    padding: 25px;
+    color: white;
+    background-color: black;
+    margin-left: -60px;
+}
+
+.icon {
+    background: black;
+    display: block;
+    float: left;
+    width: 100%;
+}
+
+.read {
+    color: blue;
+    background-color: white;
+}
+
+.like {
+    position: absolute;
+    margin-left: -350px;
+    margin-top: 470px;
+    padding: 5px;
+    color: white;
+    background: black;
+}
+
+.Replies {
+    position: absolute;
+    padding: 10px;
+    margin-top: 460px;
+    margin-left: 225px;
+    width: 130px;
+    background-color: black;
+    color: white;
+}
+
+.num {
+    color: black;
+    background-color: white;
+    padding: 10px;
+    height: 2px;
+}
+
+.Blog3 {
+    background-color: white;
+    position: relative;
+    padding: 400px;
+    width: 30px;
+    height: 210px;
+    left: 50px;
+    top: 140px;
+}
+
+.center2 {
+    top: 30px;
+    padding: 10px;
+    right: 200px;
+    position: absolute;
+    width: 300px;
+    color: black;
+}
+
+.title3 {
+    font-size: 25px;
+    margin-top: -30px;
+    background: black;
+    color: white;
+}
+
+.title4 {
+    position: absolute;
+    margin-top: 10px;
+    font-family: oswald;
+    font-size: 15px;
+}
+
+.Slide1 {
+    position: absolute;
+    right: 150px;
+    top: 150px;
+}
+
+.VT2 {
+    position: absolute;
+    color: black;
+    background-color: white;
+    width: 550px;
+    bottom: 180px;
+    right: 100px;
+}
+
+.Head1 {
+    font-family: oswald;
+    font-size: 100px;
+    position: absolute;
+    left: 25px;
+    top: 15px;
+    color: white;
+    text-shadow: black;
+
+}
+
+.Input2 {
+    left: 90px;
+    position: absolute;
+    padding: 10px;
+    font-size: 30px;
+    background-color: rgb(202, 199, 199);
+    font-family: oswald;
+    top: 255px;
+}
+
+.Input2:hover {
+    opacity: 0.5;
+}
+
+.like1 {
+    position: absolute;
+    padding: 10px;
+    top: 820px;
+    left: 100px;
+}
+
+.Replies1 {
+    position: absolute;
+    top: 820px;
+    padding: 10px;
+    background: black;
+    color: white;
+    width: 110px;
+    right: 100px;
+}
+
+.num1 {
+    color: black;
+    background: white;
+    height: 2px;
+    padding: 10px;
+}
+
+.Blog4 {
+    background-color: white;
+    position: relative;
+    padding: 400px;
+    width: 30px;
+    height: 210px;
+    right: 100px;
+    top: 200px;
+    left: 50px;
+
+}
+
+.center3 {
+    position: absolute;
+    top: 20px;
+    margin-left: -130px;
+    font-size: 20px;
+    font-family: Oswald;
+}
+
+.SLIDE2 {
+    position: absolute;
+    left: 50px;
+    top: 175px;
+}
+
+.VT3 {
+    position: absolute;
+    margin-top: 250px;
+    margin-left: -300px;
+}
+
+.title5 {
+    font-size: 20px;
+    position: absolute;
+    margin-top: -25px;
+}
+
+.like2 {
+    position: absolute;
+    left: 50px;
+    top: 750px;
+}
+
+.Replies2 {
+    position: absolute;
+    margin-top: 355px;
+    right: 100px;
+    padding: 5px;
+    width: 110px;
+    color: white;
+    background: black;
+}
+
+.num2 {
+    height: 2px;
+    color: black;
+    background-color: white;
+    padding: 4px;
+}
+
+.comment {
+    position: absolute;
+    width: 750px;
+    background-color: white;
+    color: black;
+    height: 100px;
+}
+
+.comment {
+    margin-left: -370px;
+    margin-top: 380px;
+}
+
+.com {
+    position: absolute;
+    top: 50px;
+    right: 520px;
+}
+
+.name {
+    position: absolute;
+    top: 0px;
+    right: 650px;
+}
+
+.comment-date {
+    font-size: 12px;
+    right: -65px;
+    position: absolute;
+    top: 10px;
+}
+
+.Reply3 {
+    position: relative;
+    width: 750px;
+    top: 480px;
+    background-color: white;
+    right: 320px;
+    height: 100px;
+}
+
+.commentt2 {
+    position: absolute;
+    background: black;
+}
+
+.name1 {
+    position: absolute;
+    bottom: 5px;
+    left: 80px;
+}
+
+.comment-date1 {
+    font-size: 14px;
+    right: -70px;
+    position: absolute;
+    top: 7px;
+}
+
+.comm {
+    position: absolute;
+    left: 70px;
+    width: 100px;
+    top: 15px;
+}
+
+.Reply4 {
+    position: relative;
+    width: 750px;
+    height: 85px;
+    background-color: white;
+    top: 480px;
+    right: 400px;
+}
+
+.name2 {
+    position: absolute;
+    top: -10px;
+    left: 80px;
+}
+
+.comment-date2 {
+    position: absolute;
+    font-size: 13px;
+    right: -70px;
+    top: 5px;
+}
+
+.comm1 {
+    position: absolute;
+    top: 35px;
+    right: 600px;
+}
+
+.blog-owner {
+    background-color: white;
+    padding: 20px;
+    width: 500px;
+    position: relative;
+    margin-left: 950px;
+    margin-top: -3000px;
+}
+
+.popular {
+    position: relative;
+    background-color: white;
+    width: 550px;
+    margin-left: 930px;
+    top: 20px;
+    padding: 10px;
+}
+
+.advertisement {
+    position: relative;
+    background-color: white;
+    padding: 20px;
+    width: 530px;
+    height: 500px;
+    margin-left: 930px;
+    top: 110px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.HERE1 {
+    position: absolute;
+    width: 400px;
+    height: 300px;
+    background-color: gray;
+    left: 110px;
+    top: 100px;
+}
+
+.HERE {
+    position: absolute;
+    top: 120px;
+    left: 100px;
+}
+
+.container {
+    background-color: skyblue;
+    position: relative;
+    width: 560px;
+    height: 400px;
+    text-align: center;
+    font-size: 20px;
+    left: 940px;
+    top: 130px;
+}
+
+.CAP1 {
+    position: absolute;
+    left: 215px;
+    bottom: 330px;
+}
+
+.email {
+    top: 100px;
+    position: absolute;
+    left: 180px;
+    height: 30px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.Submit {
+    font-size: 20px;
+    top: 180px;
+    position: absolute;
+    left: 205px;
+    color: black;
+    background-color: rgb(247, 236, 236);
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.Submit:hover {
+    opacity: 0.5;
+}
+
+li {
+    background-color: white;
+    list-style-type: none;
+    cursor: pointer;
+    padding: 15px;
+    color: black;
+    margin-left: -42px;
+}
+
+.LV20 {
+
+    font-size: 20px;
+    margin-bottom: 50px;
+    position: absolute;
+
+}
+
+ul,
+li:hover {
+    position: relative;
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    z-index: 5;
+    top: 2.5px;
+
+}
+
+.hr1 {
+    width: 560px;
+    position: absolute;
+    left: 0px;
+}
+
+.avatar {
+    top: 25px;
+    position: absolute;
+}
+
+.modal {
+    z-index: 808;
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background: rgba(0, 0, 0, 0.7);
+    display: none;
+    bottom: 3800px;
+
+}
+
+.modalbody {
+    position: absolute;
+    height: 550px;
+    background-color: rgb(53, 15, 15);
+    left: 400px;
+    width: 700px;
+    border-radius: 17px;
+    font-size: 12px;
+    top: 50px;
+}
+
+.modalmail {
+    position: absolute;
+    width: 70%;
+    height: 8%;
+    right: 10%;
+    top: 30%;
+    border-radius: 10px;
+}
+
+.modalpass {
+    position: absolute;
+    width: 70%;
+    height: 8%;
+    right: 10%;
+    top: 47%;
+    border-radius: 10px;
+}
+
+.modalsignup {
+    position: absolute;
+    width: 50%;
+    top: 65%;
+    right: 25%;
+    color: white;
+    background: black;
+}
+
+.close {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
